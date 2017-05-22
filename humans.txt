@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Leo - leo@hotmail - twitter
 
 # THANKS
 
